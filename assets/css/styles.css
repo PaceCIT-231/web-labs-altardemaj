@@ -1,1 +1,59 @@
-/* Add your code here */
+body {
+    background-color: rgb(178, 24, 24);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+h1, footer{
+    background-color: aliceblue;
+    font-family:monospace;
+    font-weight: 700;
+    font-size: xx-large;
+    font-style: oblique;
+    text-align: center;
+}
+
+.navbar ul{
+    text-align: center;
+    list-style: none;
+    background: #7b7f4c;
+    padding: 0;
+    margin: 0;
+
+
+}
+    
+
+ul li::marker {
+    color: rgb(9, 9, 242);
+    font-family: cursive;
+
+
+
+
+}
+
+a{
+    margin: 50px;
+}
+
+em{
+    font-weight: 700;
+    font-style: oblique;
+
+}
+
+
+ul{
+list-style:lower-alpha;
+}
+
+
+
+p {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+  }
+
